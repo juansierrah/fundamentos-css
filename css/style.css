@@ -14,6 +14,7 @@ body{
     background-color: rgb(17, 204, 132);
     text-align: center;
     padding-top: 110px;
+    margin-bottom: 20px;
 }
 img{
     width: 250px;
@@ -28,7 +29,12 @@ img{
     background-color: rgb(184, 182, 179);
     width: 50%;
     height: 100%;
+    float: left;
 }
 #hijo2{
     background-color:rgb(6, 116, 79) ;
+    width: 50%;
+    height: 100%;
+    float: right;
+    text-align: center;
 }
